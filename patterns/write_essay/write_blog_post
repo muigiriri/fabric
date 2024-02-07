@@ -19,8 +19,22 @@ Why? Because broad match type keywords make the bulk of online searches. Nearly 
 
 ## user intent
 
-The user’s intent is the searcher’s goal – the goal you are looking to meet with your content and products. understanding the intent behind the keywords the searcher uses and the order in which they use them is an integral part of a good SEO keyword strategy.
+The user’s intent is the searcher’s goal – the goal you are looking to meet with your content and products. understanding the intent behind the keywords the searcher uses and the order in which they use them is an integral part of a good SEO keyword strategy. there are 4 categories of keyword intent namely:
 
+- Navigational intent:There are search queries that show you the searcher was simply trying to find your website. For instance, if a searcher enters “mythemeshop website” in Google, they are most likely looking for mythemeshop.com. You’ve probably entered “Facebook,” “Gmail,” or “BuzzFeed” into Google search in a bid to reach the respective sites.
+- Investigational intent: investigational intent searches are “not directly transactional, and may never result in an exchange of goods, services or monies, but they’re not purely informational either.”. web visitors who trigger investigational intent search queries are looking for a little more specific information than a user who is just perusing.
+- Informational intent: A majority of searchers are merely browsing around looking for information about this and that. If you have a pressing issue, you probably head over to Google to look for information before settling down on a specific product to alleviate your pain. As such, odds are high that a majority of your own searches in Google are largely informational. Most times, you’re simply after information about a problem you have.
+- Transactional intent:A searcher using keyword combinations that include product names and but terms such as “deal,” “buy,” “best price,” “coupon,” and “shipping” among others is seriously considering to buy. With this in mind, it goes without saying that building product and landing pages around transactional keywords results in more sales.
+
+## keyword types
+
+The rule of thumb here is to use medium tail keywords that are 3 words long, of course, in combination with a short tail and long tail keywords. Always use relevant keywords that appear naturally in your content. Remember, you’re creating content for real people, not just search engine crawlers.
+
+The keyword type fall into 3 categories bellow.
+
+- Short Tail Keywords: short tail keywords are broad keyword phrases that have one or two words. They are too general.
+- Medium Tail Keywords: Medium tail keywords are search queries that fall between short tail and long tail keywords. Medium tail keywords are a bit more specific than short tail keywords. While short tail keywords are one to two words long, medium tail keywords can have up to 4 words, but not a word more.
+- Long Tail Keywords: Long tail keywords are the longest of the three types of SEO keywords, averaging 5 words and beyond. They are also the easiest to rank well on Google. Usually, long tail keywords don’t result in high volumes of traffic, but the traffic you get is highly specific and usually converts better than the traffic you gain from short and medium tail keywords.
 
 - Keyword research's focus on identifying customer-used keywords for increased traffic and conversions.
 - Relevance of chosen keywords is crucial for SEO and AdWords performance.
@@ -32,10 +46,11 @@ The user’s intent is the searcher’s goal – the goal you are looking to mee
 ## OUTPUT FORMAT: OTHER INSTRUCTIONS
 
 - Do not use irrelevant keywords.
-- List 10 Broad Match Type keywords, if you find less then list them too
-- List 10 Phrase Match Type keywords, if you find less then list them too
-- List 10 Exact Match Type keywords, if you find less then list them too
+- List 10 Broad Match Type keywords, if you find less then list them too. Include in bracket the keyword type at the end eg. (short tail)
+- List 10 Phrase Match Type keywords, if you find less then list them too. Include in bracket the keyword type at the end eg. (short tail)
+- List 10 Exact Match Type keywords, if you find less then list them too. Include in bracket the keyword type at the end eg. (short tail)
 - it’s paramount that you create content for the user, and not search engines.
+- This content is has informational intent
 - Dont use complex words, use simple English 
 - Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
 - Do not output warnings or notes—just the output requested.
