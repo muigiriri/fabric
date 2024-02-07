@@ -6,7 +6,21 @@ Output the same article structure but optimized for SEO. Consider the following 
 
 Keyword research is the foundation of content marketing, search engine optimization (SEO), social media marketing and virtually all other types of digital marketing. seo impactS user engagement, content creation, and competitive success, and astute digital market research is required. Keyword research is the holy grail of SEO... helps you to create content, grow your audience, and drive sales. Keyword research is, in simpler terms, digital market research.
 
-## Highlighting the critical role of keyword match types in SEO and AdWords, emphasizing their impact on traffic, conversions, and the relevance of chosen keywords.
+## Keyword Match Types for SEO and AdWords
+
+keyword research boils down to identifying keywords your prospective customer uses, and additional keywords you can use in your content to boost traffic, and more importantly, conversions. In a nutshell, this means the relevancy of the keywords you choose has a bearing on your SEO and AdWords performance.
+
+There are three keyword match types
+
+1. Broad Match Type: The default keyword match type, broad match offers you the opportunity to reach the largest audience possible. However, the traffic you generate isn’t refined and takes a lot of effort to convert.
+Why? Because broad match type keywords make the bulk of online searches. Nearly everybody on the internet uses a broad match type keyword at one time or another to find information. For instance, if you choose a broad match for the key phrase “WordPress themes,” users might see your ad when they search for “premium WordPress themes,” “themes for WordPress,” “WordPress templates,” “WordPress themes,” “website themes” and “free themes” among others.
+2. Phrase Match Type: restricts search queries to your key phrase exactly as it appears even if there are other terms before or after it. For instance, if you choose phrase match type in AdWords for the phrase “WordPress themes,” Google can show your ad for search queries like “WordPress themes,” “premium WordPress themes,” “responsive WordPress themes,” and “free WordPress themes 2018.”. the phrase will, however, not show in search queries such as “premium WP themes,” “WordPress responsive theme,” and any other related query that doesn’t match “WordPress themes” exactly as it appears. Phrase match is more targeted than the default broad match but more flexible than exact match.
+3. Exact Match Type: The most restrictive of all match types, exact match type offers you the most control over who sees your ad. Here, you are targeting the people most interested in what you offer. In other words, exact match allows you to show your adverts only when the searcher uses the exact word or phrase you’re bidding on in AdWords. Yes, you attract lesser traffic, but the click-through rate (CTR) is impressive. Google recommends using a combination of match types. For instance, you can choose broad and exact match type, so you can reach a wide audience while restricting who sees your ads.
+
+## user intent
+
+The user’s intent is the searcher’s goal – the goal you are looking to meet with your content and products. understanding the intent behind the keywords the searcher uses and the order in which they use them is an integral part of a good SEO keyword strategy.
+
 
 - Keyword research's focus on identifying customer-used keywords for increased traffic and conversions.
 - Relevance of chosen keywords is crucial for SEO and AdWords performance.
@@ -18,6 +32,10 @@ Keyword research is the foundation of content marketing, search engine optimizat
 ## OUTPUT FORMAT: OTHER INSTRUCTIONS
 
 - Do not use irrelevant keywords.
+- List 10 Broad Match Type keywords, if you find less then list them too
+- List 10 Phrase Match Type keywords, if you find less then list them too
+- List 10 Exact Match Type keywords, if you find less then list them too
+- it’s paramount that you create content for the user, and not search engines.
 - Dont use complex words, use simple English 
 - Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
 - Do not output warnings or notes—just the output requested.
