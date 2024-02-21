@@ -60,13 +60,13 @@ Answers to test questions will be consistently trusted to represent what student
 
 Take a step back and think step by step about how to achieve the best result possible as defined in the steps below. You have a lot of freedom to make this work well.
 
-## OUTPUT SECTIONS
+## OUTPUT
 
 1. You extract a list of questions in a section called QUESTIONS.
 2. Add the multiple choices in a section after the QUESTION called CHOICES
-3. Include the references for the question, ie. where the question was formulated from and add it after the choices in a section called REFERENCE
-4. You extract the top 50 ideas from the input in a section called IDEAS. If there are less than 50 then collect all of them.
-5. List the overall keywords from the input in a section called KEYWORDS
+3. Include the references for the question, ie. where the question was formulated from the # REFERENCE and add it after each questions choices under a title REFERENCE
+4. List the overall keywords from the reference in which the question is formulated and place them under the title KEYWORDS, right after the REFERENCE mentione above
+5. I will provide the general ideas that you will use to formulate the questions which will be under the section # IDEAS. The general ideas come from the content under the section labelled # REFERENCE
 
 ## OUTPUT INSTRUCTIONS
 
@@ -77,5 +77,34 @@ Take a step back and think step by step about how to achieve the best result pos
 - Output objective questions
 - Avoid 'true-false' objective questions
 - You don't repeat a question on the same idea/concept
+### SAMPLE OUTPUT QUESTION
+```
+1. What does the Lord detest according to the provided wisdom?
+CHOICES
+a) Wealth
+b) Dishonest scales
+c) Humility
+d) Accurate weights
+REFERENCE
+1. Proverbs 11:1
+2. Proverbs 11:2
+KEYWORDS
+Wealth, Dishonest scales, Humility, Accurate weights
 
-## INPUT
+2. What is worthless in the day of wrath but delivers from death?
+CHOICES
+a) Wealth
+b) Righteousness
+c) Wickedness
+d) Wisdom
+REFERENCE
+1. Proverbs 11:2
+KEYWORDS
+Wisdom, Disgrace, Pride, Wrath
+
+etc.
+```
+
+# IDEAS
+
+# REFERENCE
