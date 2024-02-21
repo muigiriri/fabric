@@ -65,7 +65,8 @@ Take a step back and think step by step about how to achieve the best result pos
 1. You extract a list of questions in a section called QUESTIONS.
 2. Add the multiple choices in a section after the QUESTION called CHOICES
 3. Include the references for the question, ie. where the question was formulated from and add it after the choices in a section called REFERENCE
-4. List the key ideas
+4. You extract the top 50 ideas from the input in a section called IDEAS. If there are less than 50 then collect all of them.
+5. List the overal keywords from the content in a section called KEYWORDS
 
 ## OUTPUT INSTRUCTIONS
 
