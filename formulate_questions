@@ -63,7 +63,7 @@ Take a step back and think step by step about how to achieve the best result pos
 ## OUTPUT
 
 1. You extract a list of questions in a section called QUESTIONS.
-2. Add the multiple choices in a section after the QUESTION called CHOICES
+2. Add the multiple choices after the QUESTION
 3. Include the references for the question, ie. where the question was formulated from the # REFERENCE and add it after each questions choices under a title REFERENCE
 4. List the overall keywords from the reference in which the question is formulated and place them under the title KEYWORDS, right after the REFERENCE mentione above
 5. I will provide the general ideas that you will use to formulate the questions which will be under the section # IDEAS. The general ideas come from the content under the section labelled # REFERENCE
@@ -72,7 +72,7 @@ Take a step back and think step by step about how to achieve the best result pos
 
 - You only output Markdown.
 - Do not give warnings or notes; only output the requested sections.
-- You use letter-numbered lists for the choices.
+- separate each choice in a new line.
 - Add an equal sign at the end of the correct choice in Objective questions
 - Output objective questions
 - Avoid 'true-false' objective questions
