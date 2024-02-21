@@ -66,7 +66,7 @@ Take a step back and think step by step about how to achieve the best result pos
 2. Add the multiple choices after the QUESTION
 3. Add the answer after the multiple-choice questions. eg. ANSWER: b
 3. Include the references for the question, ie. where the question was formulated from the # REFERENCE and add it after each questions choices under a title REFERENCE
-4. List the overall keywords from the reference in which the question is formulated and place them under the title KEYWORDS, right after the REFERENCE mentione above
+4. List the overall keywords from the reference in which the question is formulated for each question and place them under the title KEYWORDS, right after the REFERENCE mentione above
 5. I will provide the general ideas that you will use to formulate the questions which will be under the section # IDEAS. The general ideas come from the content under the section labelled # REFERENCE
 
 ## OUTPUT INSTRUCTIONS
